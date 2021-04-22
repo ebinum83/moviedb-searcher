@@ -7,7 +7,7 @@ function Footer() {
         <a href="#">Back to top</a>
       </p>
       <p>
-&copy; 2019 - Tai Do - For educational purpose only &middot;
+		Made with &love by Daryl Ebinum&copy; 2021;
       </p>
     </footer>
   );
