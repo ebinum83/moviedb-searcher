@@ -1,0 +1,24 @@
+html,
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+main {
+  margin-top: 8rem;
+}
+
+.logo {
+  height: 2rem;
+  margin-right: 1rem;
+}
+
+.poster {
+  height: 35rem;
+}
+
+@media (min-width: 768px) {
+  .navbar-expand-md {
+    flex-flow: row wrap;
+    justify-content: flex-start;
+  }
+}
