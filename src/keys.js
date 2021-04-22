@@ -1,5 +1,5 @@
 const baseURL = 'https://api.themoviedb.org/3';
-const secret = '7c298d49541bf3a98b56f841d998d0a3';
+const secret = '85bf4579c13b19c5d1ae95ec26bd38b5'; //
 const maxResult = 12;
 
 export { baseURL, secret, maxResult };
