@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/moviedb-searcher/static/css/main.f83ebe85.chunk.css",
-    "main.js": "/moviedb-searcher/static/js/main.f46a765c.chunk.js",
-    "main.js.map": "/moviedb-searcher/static/js/main.f46a765c.chunk.js.map",
+    "main.js": "/moviedb-searcher/static/js/main.2c502388.chunk.js",
+    "main.js.map": "/moviedb-searcher/static/js/main.2c502388.chunk.js.map",
     "runtime-main.js": "/moviedb-searcher/static/js/runtime-main.d4e0e9a2.js",
     "runtime-main.js.map": "/moviedb-searcher/static/js/runtime-main.d4e0e9a2.js.map",
     "static/js/2.e2eec8cc.chunk.js": "/moviedb-searcher/static/js/2.e2eec8cc.chunk.js",
     "static/js/2.e2eec8cc.chunk.js.map": "/moviedb-searcher/static/js/2.e2eec8cc.chunk.js.map",
     "index.html": "/moviedb-searcher/index.html",
-    "precache-manifest.8c3273c1ebb21e74b1cf4ebaab511869.js": "/moviedb-searcher/precache-manifest.8c3273c1ebb21e74b1cf4ebaab511869.js",
+    "precache-manifest.1d33a564ddebc371f30e9b0c16afa350.js": "/moviedb-searcher/precache-manifest.1d33a564ddebc371f30e9b0c16afa350.js",
     "service-worker.js": "/moviedb-searcher/service-worker.js",
     "static/css/main.f83ebe85.chunk.css.map": "/moviedb-searcher/static/css/main.f83ebe85.chunk.css.map",
     "static/js/2.e2eec8cc.chunk.js.LICENSE": "/moviedb-searcher/static/js/2.e2eec8cc.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d4e0e9a2.js",
     "static/js/2.e2eec8cc.chunk.js",
     "static/css/main.f83ebe85.chunk.css",
-    "static/js/main.f46a765c.chunk.js"
+    "static/js/main.2c502388.chunk.js"
   ]
 }
