@@ -7,7 +7,7 @@ function Footer() {
         <a href="#">Back to top</a>
       </p>
       <p>
-		Made with ❤️ and 🍺 by Daryl Ebinum&copy; 2021
+		    Made with ❤️ and 🍺 by Daryl Ebinum&copy; 2021
       </p>
     </footer>
   );
