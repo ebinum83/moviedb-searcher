@@ -1,4 +1,4 @@
-# **moviedb-searcher**
+# **Moviedb Searcher**
 
 This is a simple website that helps you manage your favorite films
 
